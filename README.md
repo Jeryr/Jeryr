@@ -48,10 +48,6 @@ Stack: PhP | Node.js | Express | PostgreSQL |
 - ⚡ Fun fact: typeof null === "object";  
 
 
-</td><td valign="top" width="50%">
-
-
-
 </td></tr></table>  
 
 <br/>  
@@ -76,17 +72,6 @@ Stack: PhP | Node.js | Express | PostgreSQL |
 
 <br/>  
 
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
